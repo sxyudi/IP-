@@ -31,5 +31,5 @@ http://int.dpool.sina.com.cn/iplookup/iplookup.php?format=js&ip=219.242.98.111
 6.搜狐另外的IP地址查询接口：http://txt.go.sohu.com/ip/soip
 
 
-私人测试用的  http://123.206.219.164/json?ip={IP} ，不保证一直可用
+私人测试用的  http://123.206.219.164/json?ip={IP} ，http://123.206.219.164/json 不保证一直可用
 
